@@ -1,0 +1,2 @@
+This project is comprised of several .php files as well as one .py file. The Python script executes a repeating set of instructions that receives data from an ultraviolet and ambient light sensor, which is then pushed to a mySQL database for storage.
+The .php files receive this data, storing it within the database, and pulls it to be displayed on a basic website. The website refreshes at a short interval to display the most recent values.
